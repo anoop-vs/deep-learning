@@ -5,9 +5,11 @@ Welcome to the repository for the Deep Learning & MLOps course offered at Digita
 ## Course Overview
 
 **Course Title:** Deep Learning and MLOps
+
 **Instructor:** Dr. Anoop V. S.
 
 **Semester:** August 2024 - December 2024  
+
 **University:** Digital University Kerala, Thiruvananthapuram, India
 
 ### Course Webpage
