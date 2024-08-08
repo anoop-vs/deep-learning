@@ -41,7 +41,7 @@ If you have suggestions for improvements or find issues with the materials, plea
 
 To contribute:
 
-1. **Open an Issue:** If you encounter problems or have suggestions, please open an issue in the [Issues](https://github.com/yourusername/deep-learning/issues) section of this repository.
+1. **Open an Issue:** If you encounter problems or have suggestions, please open an issue in the [Issues](https://github.com/anoop-vs/deep-learning/issues) section of this repository.
 2. **Submit a Pull Request:** For code changes or updates, fork the repository, make your changes, and submit a pull request. Be sure to provide a clear description of your changes.
 
 I appreciate your help in improving this course material!
