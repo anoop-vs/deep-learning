@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+tqdm
+imageio
+seaborn
+opencv-python
+nltk
+pytest
+tensorflow
+matplotlib
+Pillow
+
+-e .
